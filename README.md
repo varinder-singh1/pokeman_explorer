@@ -19,7 +19,7 @@ A responsive Pokémon Explorer web app built with Next.js 15 and TypeScript. It 
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/pokemon-explorer.git
+git clone https://github.com/varinder-singh1/pokeman_explorer
 cd pokemon-explorer
 
 ### 2. Install Dependencies
